@@ -59,9 +59,10 @@ print("-----------------------------------------------------")
 ```
 
 ## Output :
-![alt text](<maths 5.jpeg>)
+
+<img width="562" height="275" alt="447223849-a2d64073-d2cb-407a-80d3-974092c6b968" src="https://github.com/user-attachments/assets/ec5521a1-90c4-442c-8e51-97b185f9696f" />
 
 ## Result : 
 Multiple server with infinite capacity - (M/M/c):(oo/FIFO) studied successfully.
 
-https://github.com/priyaadharsh2710-stack/Muttiple-capacity-with-infinite-capacity.git
+
